@@ -1,0 +1,70 @@
+body{
+    background-color: #152052;
+    color: #ffffff6a;
+ 
+}
+header{
+    background-color: #0f1c3a;
+    padding:15px;
+    text-align: center;
+}
+
+.selecoes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+
+a{
+    text-decoration:none;
+    color: #ffffff9e;
+}
+.brasil{
+    background-color:#2d4b92;
+    padding-bottom: 21px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.alemanha{
+    background-color:#2d4b92;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.italia{
+    background-color:#2d4b92;
+    padding-bottom: 4px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.espanha{
+    background-color:#2d4b92;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.argentina{
+    background-color:#2d4b92;
+    padding-bottom: 4px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.inglaterra{
+    background-color:#2d4b92;
+    padding-bottom: 4px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.franca{
+    background-color:#2d4b92;
+    padding-bottom: 4px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
+.uruguai{
+    background-color:#2d4b92;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 5px #ffffff6a;
+}
