@@ -1,6 +1,7 @@
 body{
     background-color: #152052;
     color: #ffffff6a;
+
  
 }
 header{
@@ -19,6 +20,7 @@ header{
 a{
     text-decoration:none;
     color: #ffffff9e;
+    cursor: pointer;
 }
 .brasil{
     background-color:#2d4b92;
