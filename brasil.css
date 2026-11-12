@@ -1,0 +1,17 @@
+.backbrasil{
+    text-decoration:none;
+    color: #f50a0afa;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    border-letter: 1px solid #ffffff6a;
+    color: #fffffffe;
+    background-image: url(https://i0.wp.com/segredosdomundo.r7.com/wp-content/uploads/2021/11/bandeira-do-brasil.png?fit=1535%2C1024&ssl=1);
+    background-position: 40% 40%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    width: 500px;
+    height: 300px;
+}
