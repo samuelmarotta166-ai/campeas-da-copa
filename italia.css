@@ -4,7 +4,7 @@
 }
 header{
     font-family: "Poppins", sans-serif;
-    color: #fdfdfdfe;
+    color: #0a0909fe;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqY9Nu3sehttFCM_4b9PA1c9IeGeLKgPbknSDfK23ceQ&s=10);
     background-position: 40% 45%;
     padding:50px;
@@ -18,7 +18,7 @@ header{
 }
 body{
     text-align: center;
-    background-color: #030902;
+    background-color: #919291;
     margin: 0px;
     padding: 0px;
     font-family: "Poppins", sans-serif;
