@@ -1,0 +1,44 @@
+.backbrasil{
+    text-decoration:none;
+    color: #fff823;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    
+    color: #fffffffe;
+    background-image: url(https://i0.wp.com/segredosdomundo.r7.com/wp-content/uploads/2021/11/bandeira-do-brasil.png?fit=1535%2C1024&ssl=1);
+    background-position: 40% 40%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    border: 2px solid #fffffffe;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    text-align: center;
+    background-color: #185512;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #185512;
+}
+footer{
+    background-color: #174806;
+    padding: 40px;
+    text-align: center;
+}
+ul, li{
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
+p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}

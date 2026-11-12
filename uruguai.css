@@ -1,0 +1,44 @@
+.backfranca{
+    text-decoration:none;
+    color: #f2f4f6;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    color: #0b0b0bfe;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckvKx1emKaKLp3H2AQZyG-1KITnuILmPPTS3CmE7s3g&s=10);
+    background-size: cover;
+    background-position: 40% 20%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    border: 2px solid #fffffffe;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    text-align: center;
+    background-color: #f3f4f6;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #0347b5;
+}
+footer{
+    background-color: #f0eeee;
+    padding: 40px;
+    text-align: center;
+}
+ul, li{
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
+p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}

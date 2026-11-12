@@ -1,0 +1,43 @@
+.backargentina{
+    text-decoration:none;
+    color: #537dc0;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    color: #0b0b0bfe;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtSUHrJdFQGRUOtxvc_QE7NuSEJwuYKCqZWGitWPjEQ&s=10);
+    background-position: 40% 45%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    border: 2px solid #fffffffe;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    text-align: center;
+    background-color: #5a81c1;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #5a81c1;
+}
+footer{
+    background-color: #f8f9f8;
+    padding: 40px;
+    text-align: center;
+}
+ul, li{
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
+p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}

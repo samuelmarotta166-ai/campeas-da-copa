@@ -1,0 +1,45 @@
+.backalemanha{
+    text-decoration:none;
+    color: #ff0101b6;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    
+    color: #fffffffe;
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16HurW8V318GUEamxNkoPv8E6bHhALAcPWvpdKSxz3A&s=10);
+    background-position: 40% 45%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    border: 2px solid #fffffffe;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    text-align: center;
+    background-color: #030902;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #a20101;
+}
+footer{
+    background-color: #faec2a;
+    padding: 40px;
+    text-align: center;
+}
+ul, li{
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
+p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
