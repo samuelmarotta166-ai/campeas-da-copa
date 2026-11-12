@@ -1,0 +1,43 @@
+.backitalia{
+    text-decoration:none;
+    color: #fdfbfb;
+}
+header{
+    font-family: "Poppins", sans-serif;
+    color: #fdfdfdfe;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqY9Nu3sehttFCM_4b9PA1c9IeGeLKgPbknSDfK23ceQ&s=10);
+    background-position: 40% 45%;
+    padding:50px;
+    text-align: center;
+}
+.img{
+    border: 2px solid #fffffffe;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    text-align: center;
+    background-color: #030902;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #024abe;
+}
+footer{
+    background-color: #26761c;
+    padding: 40px;
+    text-align: center;
+}
+ul, li{
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
+p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    color: #fffffffe;
+}
